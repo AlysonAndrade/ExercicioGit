@@ -1,1 +1,3 @@
-Regras de uso do sistema web
+Regras de uso do sistema web:
+
+1.Não acessar conteudo improprio. 
