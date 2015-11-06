@@ -1,3 +1,4 @@
 Regras de uso do sistema web:
 
-1.Não acessar conteudo improprio. 
+1.Não acessar conteudo improprio.
+2.Não pode publicar palavroes
